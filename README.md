@@ -1,10 +1,10 @@
 # MAVERICKSTORM2BEAMWASH
 
-[V1.3_08-22-23 – Maverick Storm 2 Beam Wash](https://github.com/Chauvet-Pro/MAVERICKSTORM2BEAMWASH/blob/a41732a7a421663e01fe36dbe0cb0790a46b05ed/firmware/V1.3_08-22-23.zip)
+[V1.230822 – Maverick Storm 2 Beam Wash](https://github.com/Chauvet-Pro/MAVERICKSTORM2BEAMWASH/blob/eb8472c0aca01b08e16b2c800e406af9596072bd/Firmware/V1.230822.zip)
 -	Added IC chip compatibility
   
-[V1.2_05-16-23 – Maverick Storm 2 Beam Wash](https://github.com/Chauvet-Pro/MAVERICKSTORM2BEAMWASH/blob/a41732a7a421663e01fe36dbe0cb0790a46b05ed/firmware/V1.2_05-16-23.zip)
+[V1.230516 – Maverick Storm 2 Beam Wash](https://github.com/Chauvet-Pro/MAVERICKSTORM2BEAMWASH/blob/eb8472c0aca01b08e16b2c800e406af9596072bd/Firmware/V1.230516.zip)
 -	Fixed timing errors and reduced reset noise
   
-[V1.1_11-02-22 – Maverick Storm 2 Beam Wash](https://github.com/Chauvet-Pro/MAVERICKSTORM2BEAMWASH/blob/a41732a7a421663e01fe36dbe0cb0790a46b05ed/firmware/V1.1_11-02-22.zip)
+[V1.221102 – Maverick Storm 2 Beam Wash](https://github.com/Chauvet-Pro/MAVERICKSTORM2BEAMWASH/blob/eb8472c0aca01b08e16b2c800e406af9596072bd/Firmware/V1.221102.zip)
 -	Released software version
