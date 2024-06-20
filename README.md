@@ -8,6 +8,7 @@
 * Fixed timing issue in strobe function in DMX values 170-184
 * Fixed bug in Dimmer Smooth to allow center LED to sync with ring LED
 * Fixed bug in TV Reset mode to allow reset to be quieter in function
+* ***NOTE: The software filename is V1.230523 but will reflect the correct version number V1.240523 once installed in the product***
 
 [V1.230822 – Maverick Storm 2 BeamWash](https://github.com/Chauvet-Pro/MAVERICKSTORM2BEAMWASH/blob/eb8472c0aca01b08e16b2c800e406af9596072bd/Firmware/V1.230822.zip)
 -	Added IC chip compatibility
