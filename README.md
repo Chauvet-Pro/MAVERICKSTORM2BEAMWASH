@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.240525 - Maverick Storm 2 BeamWash](https://github.com/Chauvet-Pro/MAVERICKSTORM2BEAMWASH/blob/892010b4afbc77f6e4f9b6e1f704a0b573607799/Firmware/V1.240525.zip)
+- Updated IC compatibility
+
 [V1.240523 - Maverick Storm 2 BeamWash](https://github.com/Chauvet-Pro/MAVERICKSTORM2BEAMWASH/blob/0171079d335fc5c4d05f2bc015bf7bf65cb0c0ff/Firmware/V1.240523.zip)
 * ***NOTE: The software filename is V1.230523 but will reflect the correct version number V1.240523 once installed in the product.***
 * Updated DMX slot information in RDM under Full PXL mode
