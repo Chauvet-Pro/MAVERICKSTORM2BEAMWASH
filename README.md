@@ -2,7 +2,7 @@
 
 ## Software Versions
 
-[V1.250513 - Maverick Dtorm 2 BeamWash](https://github.com/Chauvet-Pro/MAVERICKSTORM2BEAMWASH/blob/489ed54713a73b2abd3676f0d443eb40d338aae9/Firmware/V1.250513.zip)
+[V1.250513 - Maverick Storm 2 BeamWash](https://github.com/Chauvet-Pro/MAVERICKSTORM2BEAMWASH/blob/489ed54713a73b2abd3676f0d443eb40d338aae9/Firmware/V1.250513.zip)
 - Limitation of addressing setting is incorrect in dual mode
 - Change sACN range to be 1-32000
 - Improve the way to input sACN universe
