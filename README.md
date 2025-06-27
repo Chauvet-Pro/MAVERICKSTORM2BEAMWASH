@@ -2,6 +2,12 @@
 
 ## Software Versions
 
+[V1.250513 - Maverick Storm 2 BeamWash](https://github.com/Chauvet-Pro/MAVERICKSTORM2BEAMWASH/blob/59635cd2b297036e8ef69954f42786393c7bd8f6/Firmware/V1.250513.zip)
+- Limitation of addressing setting is incorrect in dual mode
+- Change sACN range to be 1-32000
+- Improve the way to input sACN universe
+- Delete all digit input in the menu
+
 [V1.240525 - Maverick Storm 2 BeamWash](https://github.com/Chauvet-Pro/MAVERICKSTORM2BEAMWASH/blob/892010b4afbc77f6e4f9b6e1f704a0b573607799/Firmware/V1.240525.zip)
 - Updated IC compatibility
 
