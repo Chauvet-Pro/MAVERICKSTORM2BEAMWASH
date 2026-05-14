@@ -2,6 +2,11 @@
 
 ## Software Versions
 
+[V1.250923 - Maverick Storm 2 BeamWash](https://github.com/Chauvet-Pro/MAVERICKSTORM2BEAMWASH/blob/fbba6119c6d6f2d43906e8b843be0cee0b2116eb/Firmware/V1.250923.zip)
+- Fixed USB upload fail bug.
+- Fixed Webserver upload fail bug. 
+
+
 [V1.250513 - Maverick Storm 2 BeamWash](https://github.com/Chauvet-Pro/MAVERICKSTORM2BEAMWASH/blob/59635cd2b297036e8ef69954f42786393c7bd8f6/Firmware/V1.250513.zip)
 - Limitation of addressing setting is incorrect in dual mode
 - Change sACN range to be 1-32000
